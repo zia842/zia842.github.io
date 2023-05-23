@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.visa.vas.pen.test.deeplink",
+    "sha256_cert_fingerprints":
+    ["FB:87:45:30:0D:48:17:7E:C1:B5:4D:46:0E:AE:45:93:D1:D7:0C:FD:83:96:7C:54:D0:72:9B:4B:33:C5:D2:4C"]
+  }
+}]
